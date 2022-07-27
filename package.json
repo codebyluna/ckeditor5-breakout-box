@@ -1,0 +1,20 @@
+{
+  "name": "ckeditor5-breakout-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lunabrandon/ckeditor5-breakout-box.git"
+  },
+  "author": "",
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "ckeditor5": "^34.2.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
